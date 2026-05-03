@@ -70,7 +70,7 @@ async def main():
     os.system('clear' if os.name == 'posix' else 'cls')
     
     # Banner utama
-    banner = Text("RYEE TELEGRAM BROADCASTER\nPremium Dashboard Edition", style="bold cyan", justify="center")
+    banner = Text("TELEGRAM BROADCASTER", style="bold cyan", justify="center")
     console.print(Panel(banner, padding=(1, 2), border_style="bold blue"))
     print("\n[1] Login via Nomor HP")
     print("[2] Login via Token Bot")
