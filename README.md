@@ -7,6 +7,7 @@ pkg update && pkg upgrade
 pkg install git 
 
 git clone https://github.com/RyotaXD/boarding_tele
+
 cd boarding_tele
 
 pip install -r requirements.txt
