@@ -1,0 +1,4 @@
+telethon 
+rich
+requests
+python-telegram
